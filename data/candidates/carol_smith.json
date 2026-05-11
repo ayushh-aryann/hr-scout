@@ -1,0 +1,47 @@
+{
+  "full_name": "Carol Smith",
+  "email": "carol.smith@example.com",
+  "phone": "+1-617-555-0303",
+  "summary": "Backend Python developer with 5 years experience in building data pipelines and APIs. Strong in Python and SQL. Limited frontend experience. Have worked in financial services adjacent role (risk analytics). No cloud certifications.",
+  "skills": [
+    "Python", "Flask", "PostgreSQL", "SQL", "pandas", "numpy",
+    "REST API", "Git", "Linux", "bash", "Celery"
+  ],
+  "positions": [
+    {
+      "company": "RiskMetrics Corp",
+      "title": "Backend Developer",
+      "start_date": {"year": 2020, "month": 4},
+      "end_date": null,
+      "description": "Built Python/Flask APIs for risk calculation models. Optimized SQL queries for large financial datasets. Managed Celery workers for async processing. No frontend work. On-premise deployments only.",
+      "skills": ["Python", "Flask", "PostgreSQL", "SQL", "Celery", "Linux"],
+      "industry": "finance / risk"
+    },
+    {
+      "company": "DataBridge Analytics",
+      "title": "Python Developer",
+      "start_date": {"year": 2019, "month": 1},
+      "end_date": {"year": 2020, "month": 3},
+      "description": "Developed ETL pipelines in Python for financial data aggregation. Maintained PostgreSQL database. Limited React exposure — built one simple internal dashboard.",
+      "skills": ["Python", "PostgreSQL", "pandas", "ETL", "Flask"],
+      "industry": "data analytics"
+    }
+  ],
+  "education": [
+    {
+      "degree_name": "Bachelor of Science in Mathematics",
+      "field_of_study": "Mathematics",
+      "school_name": "Boston University",
+      "end_date": {"year": 2018},
+      "level": "bachelor"
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Risk Dashboard",
+      "description": "Internal risk monitoring dashboard for portfolio VaR calculations. Python backend with basic HTML/CSS frontend.",
+      "technologies": ["Python", "Flask", "PostgreSQL", "HTML", "CSS"]
+    }
+  ]
+}

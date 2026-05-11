@@ -1,0 +1,52 @@
+{
+  "full_name": "Emma Jones",
+  "email": "emma.jones@example.com",
+  "phone": "+1-206-555-0505",
+  "summary": "Recent CS graduate with 1.5 years full-stack experience. Comfortable with Python and React from academic projects and an internship. Eager to learn and grow. No production-scale experience or cloud certifications yet.",
+  "skills": [
+    "Python", "React", "JavaScript", "PostgreSQL", "HTML", "CSS",
+    "Git", "Flask", "REST API", "Docker"
+  ],
+  "positions": [
+    {
+      "company": "StartupXYZ",
+      "title": "Junior Full-Stack Developer",
+      "start_date": {"year": 2023, "month": 6},
+      "end_date": null,
+      "description": "Building features for an early-stage e-commerce platform. Python/Flask backend with React frontend. Fixing bugs, writing unit tests, and maintaining the PostgreSQL database. Team of 3 engineers. No Kubernetes or cloud deployment experience yet.",
+      "skills": ["Python", "Flask", "React", "PostgreSQL", "Docker"],
+      "industry": "e-commerce"
+    },
+    {
+      "company": "TechCorp Internship",
+      "title": "Software Engineering Intern",
+      "start_date": {"year": 2022, "month": 5},
+      "end_date": {"year": 2022, "month": 8},
+      "description": "3-month internship building a Python script to automate reporting. Also helped with a React component for internal tooling.",
+      "skills": ["Python", "React", "SQL"],
+      "industry": "enterprise software"
+    }
+  ],
+  "education": [
+    {
+      "degree_name": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "school_name": "University of Washington",
+      "end_date": {"year": 2023},
+      "level": "bachelor"
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Study Buddy App",
+      "description": "Academic project — a study group matching app built with Python/Flask and React. Deployed on Heroku.",
+      "technologies": ["Python", "Flask", "React", "PostgreSQL"]
+    },
+    {
+      "title": "Budget Tracker",
+      "description": "Personal finance tracker built with Python/Django and basic HTML/CSS as a university project.",
+      "technologies": ["Python", "Django", "HTML", "CSS", "SQLite"]
+    }
+  ]
+}

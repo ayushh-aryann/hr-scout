@@ -1,0 +1,50 @@
+{
+  "full_name": "David Lee",
+  "email": "david.lee@example.com",
+  "phone": "+1-312-555-0404",
+  "summary": "Senior Java developer with 8 years experience in enterprise Spring Boot applications for insurance and logistics industries. Expert in Java ecosystem. No Python or JavaScript/TypeScript experience. Considering pivoting to a new stack.",
+  "skills": [
+    "Java", "Spring Boot", "Spring MVC", "Hibernate", "Oracle DB",
+    "Maven", "JUnit", "Apache Tomcat", "SOAP", "XML", "Jenkins",
+    "IBM WebSphere", "Jira"
+  ],
+  "positions": [
+    {
+      "company": "InsureCorp",
+      "title": "Senior Java Developer",
+      "start_date": {"year": 2018, "month": 3},
+      "end_date": null,
+      "description": "Architected claims processing system using Java Spring Boot microservices. Led team of 5 developers. Designed Oracle DB schemas for claims data. Integrated SOAP web services for legacy system communication. Deployed on IBM WebSphere application server.",
+      "skills": ["Java", "Spring Boot", "Oracle DB", "SOAP", "IBM WebSphere"],
+      "industry": "insurance"
+    },
+    {
+      "company": "Logistics Pro",
+      "title": "Java Developer",
+      "start_date": {"year": 2016, "month": 1},
+      "end_date": {"year": 2018, "month": 2},
+      "description": "Built route optimization APIs in Java. Managed Oracle databases. Wrote Hibernate ORM mappings for complex supply chain models.",
+      "skills": ["Java", "Hibernate", "Oracle DB", "Spring MVC"],
+      "industry": "logistics"
+    }
+  ],
+  "education": [
+    {
+      "degree_name": "Bachelor of Technology in Computer Engineering",
+      "field_of_study": "Computer Engineering",
+      "school_name": "Illinois Institute of Technology",
+      "end_date": {"year": 2015},
+      "level": "bachelor"
+    }
+  ],
+  "certifications": [
+    "Oracle Certified Professional Java SE 11 Developer"
+  ],
+  "projects": [
+    {
+      "title": "ClaimsFlow",
+      "description": "Enterprise claims processing workflow engine built in Java Spring Boot. Handles 50k claims/day.",
+      "technologies": ["Java", "Spring Boot", "Oracle DB", "IBM MQ"]
+    }
+  ]
+}

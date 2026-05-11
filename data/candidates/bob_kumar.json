@@ -1,0 +1,54 @@
+{
+  "full_name": "Bob Kumar",
+  "email": "bob.kumar@example.com",
+  "phone": "+1-212-555-0202",
+  "summary": "Software engineer with 6 years experience in Python and React. Primarily worked in healthcare SaaS building patient management systems. Comfortable with AWS and Docker. Looking to transition to fintech.",
+  "skills": [
+    "Python", "React", "Django", "JavaScript", "PostgreSQL", "Docker",
+    "AWS", "REST API", "SQL", "Git", "Redis", "pytest"
+  ],
+  "positions": [
+    {
+      "company": "HealthTech Inc",
+      "title": "Software Engineer",
+      "start_date": {"year": 2020, "month": 1},
+      "end_date": null,
+      "description": "Built patient scheduling and billing modules using Python/Django and React. Integrated with HL7/FHIR APIs for electronic health records. Deployed services on AWS EC2 with Docker containers. Reduced backend API response time by 25% through query optimization.",
+      "skills": ["Python", "Django", "React", "PostgreSQL", "AWS", "Docker"],
+      "industry": "healthcare"
+    },
+    {
+      "company": "MediSoft Solutions",
+      "title": "Junior Python Developer",
+      "start_date": {"year": 2018, "month": 7},
+      "end_date": {"year": 2019, "month": 12},
+      "description": "Maintained legacy Python 2 codebase and progressively migrated to Python 3. Built reporting dashboards with React. Wrote unit tests with pytest achieving 80% coverage.",
+      "skills": ["Python", "React", "PostgreSQL", "pytest"],
+      "industry": "healthcare"
+    }
+  ],
+  "education": [
+    {
+      "degree_name": "Bachelor of Engineering in Computer Science",
+      "field_of_study": "Computer Science",
+      "school_name": "University of Michigan",
+      "end_date": {"year": 2018},
+      "level": "bachelor"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Cloud Practitioner"
+  ],
+  "projects": [
+    {
+      "title": "MediDash",
+      "description": "Open-source healthcare analytics dashboard built with React and Python/Django. Visualizes patient outcomes and hospital KPIs.",
+      "technologies": ["React", "Python", "Django", "PostgreSQL", "D3.js"]
+    },
+    {
+      "title": "FHIR Integration Library",
+      "description": "Python library for integrating with HL7 FHIR APIs — 200 GitHub stars in the healthcare dev community.",
+      "technologies": ["Python", "REST API", "OAuth2"]
+    }
+  ]
+}

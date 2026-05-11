@@ -1,0 +1,65 @@
+# Secrets — NEVER commit these
+.env
+*.env
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+
+# Generated outputs (large files)
+outputs/*.json
+outputs/*.html
+outputs/*.pdf
+outputs/sessions/
+# Keep the directory itself
+!outputs/.gitkeep
+
+# Uploaded files
+uploads/
+temp/
+
+# sentence-transformers model cache
+.cache/
+models/

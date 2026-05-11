@@ -1,0 +1,67 @@
+{
+  "full_name": "Alice Chen",
+  "email": "alice.chen@example.com",
+  "phone": "+1-415-555-0101",
+  "summary": "Senior full-stack engineer with 7 years building high-throughput fintech systems. Led migration of payments platform from monolith to microservices at Stripe, cutting latency by 40%. Deep expertise in Python/FastAPI, React/TypeScript, and AWS. AWS Solutions Architect certified.",
+  "skills": [
+    "Python", "FastAPI", "Django", "React", "TypeScript", "JavaScript",
+    "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GitHub Actions",
+    "Go", "GraphQL", "Kafka", "Microservices", "CI/CD", "REST API", "SQL",
+    "Terraform", "Jenkins", "RabbitMQ"
+  ],
+  "positions": [
+    {
+      "company": "Stripe",
+      "title": "Senior Software Engineer",
+      "start_date": {"year": 2021, "month": 3},
+      "end_date": null,
+      "description": "Led the migration of the payments processing service from a monolith to microservices using Python/FastAPI and Kubernetes. Reduced p99 API latency by 40% through Redis caching and query optimization. Built real-time webhook delivery system handling 100k events/day using Kafka. Mentored 3 junior engineers and led weekly architecture reviews.",
+      "skills": ["Python", "FastAPI", "Kafka", "Kubernetes", "Redis", "PostgreSQL", "AWS"],
+      "industry": "fintech"
+    },
+    {
+      "company": "Plaid",
+      "title": "Full-Stack Engineer",
+      "start_date": {"year": 2018, "month": 6},
+      "end_date": {"year": 2021, "month": 2},
+      "description": "Built financial data aggregation APIs serving 3M daily active users. Developed React/TypeScript dashboard for financial analytics. Implemented OAuth2 flows and bank-grade encryption. Set up GitHub Actions CI/CD pipelines reducing deploy time from 45 min to 8 min.",
+      "skills": ["Python", "React", "TypeScript", "PostgreSQL", "AWS", "OAuth2", "GraphQL"],
+      "industry": "fintech"
+    },
+    {
+      "company": "Twilio",
+      "title": "Software Engineer",
+      "start_date": {"year": 2017, "month": 1},
+      "end_date": {"year": 2018, "month": 5},
+      "description": "Developed Python backend services for SMS delivery pipeline. Built internal tooling with React. Maintained PostgreSQL database schemas and wrote complex SQL queries.",
+      "skills": ["Python", "React", "PostgreSQL", "Docker", "REST API"],
+      "industry": "saas"
+    }
+  ],
+  "education": [
+    {
+      "degree_name": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "school_name": "UC Berkeley",
+      "end_date": {"year": 2016},
+      "level": "bachelor"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate",
+    "AWS Certified Developer – Associate"
+  ],
+  "projects": [
+    {
+      "title": "PayFlow — Open Source Payment Orchestrator",
+      "description": "Built an open-source payment orchestration layer in Python/FastAPI supporting Stripe, Braintree, and PayPal. 1.2k GitHub stars. Used by 15 startups in production.",
+      "technologies": ["Python", "FastAPI", "PostgreSQL", "Redis", "Docker"],
+      "url": "https://github.com/example/payflow"
+    },
+    {
+      "title": "RealTime Ledger",
+      "description": "Event-sourced ledger service built with Python, Kafka, and PostgreSQL for double-entry bookkeeping at scale.",
+      "technologies": ["Python", "Kafka", "PostgreSQL", "FastAPI", "Docker"]
+    }
+  ]
+}
