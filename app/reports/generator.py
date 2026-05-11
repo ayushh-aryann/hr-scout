@@ -156,6 +156,7 @@ def generate_pdf(session: AnalysisSession) -> bytes:
 
 def _add_custom_styles(styles):
     from reportlab.lib import colors
+    from reportlab.lib.styles import ParagraphStyle
     styles.add(ParagraphStyle(
         "SubTitle",
         parent=styles["Normal"],

@@ -1,0 +1,715 @@
+{
+  "session_id": "7dd51300-dc99-4bb9-89af-8f089cc19aac",
+  "jd_profile": {
+    "title": "Senior Full-Stack Engineer",
+    "company": null,
+    "required_skills": [
+      "aws",
+      "ci/cd",
+      "django",
+      "docker",
+      "fastapi",
+      "github actions",
+      "go",
+      "graphql",
+      "jenkins",
+      "kafka"
+    ],
+    "preferred_skills": [
+      "kubernetes",
+      "microservices",
+      "postgresql",
+      "python",
+      "rabbitmq",
+      "react",
+      "redis",
+      "rust",
+      "typescript"
+    ],
+    "years_experience_min": 5,
+    "years_experience_max": null,
+    "education_requirement": "bachelor",
+    "certifications": [
+      "AWS Certified"
+    ],
+    "domain": "devops / infrastructure",
+    "industry": null,
+    "key_responsibilities": [
+      "We are a fast-growing fintech startup building the next generation of payments infrastructure",
+      "- Design, build, and maintain high-performance APIs and backend services using Python (FastAPI/Django)",
+      "- Lead frontend development with React + TypeScript, building polished user interfaces",
+      "- Own the full software development lifecycle from architecture to deployment",
+      "- Collaborate with product and design teams to ship features quickly"
+    ],
+    "seniority_level": "junior",
+    "raw_text": "Senior Full-Stack Engineer\n\nAbout the Role\nWe are a fast-growing fintech startup building the next generation of payments infrastructure. We're looking for a Senior Full-Stack Engineer to join our platform team and help scale our core product to millions of users.\n\nResponsibilities\n- Design, build, and maintain high-performance APIs and backend services using Python (FastAPI/Django)\n- Lead frontend development with React + TypeScript, building polished user interfaces\n- Own the full software development lifecycle from architecture to deployment\n- Collaborate with product and design teams to ship features quickly\n- Conduct thorough code reviews and mentor junior engineers\n- Drive technical architecture decisions and advocate for engineering best practices\n- Work with our infrastructure team to maintain CI/CD pipelines and Kubernetes deployments\n\nRequired Skills\n- Python (5+ years, FastAPI or Django)\n- React + TypeScript (3+ years)\n- PostgreSQL and Redis\n- Docker and Kubernetes\n- RESTful API design\n- CI/CD pipelines (GitHub Actions, Jenkins)\n\nPreferred Skills\n- Go or Rust\n- GraphQL\n- AWS (EC2, RDS, Lambda, S3)\n- Apache Kafka or RabbitMQ\n- Microservices architecture\n- Prior fintech / payments experience\n\nRequirements\n- 5+ years of professional software engineering experience\n- Bachelor's degree in Computer Science, Software Engineering, or equivalent\n- AWS Certified Developer or Solutions Architect certification is a plus\n- Excellent communication skills â€” we're a remote-first team\n\nNice to Have\n- Experience with real-time systems or event-driven architectures\n- Open source contributions\n- Experience at a fintech startup"
+  },
+  "results": [
+    {
+      "candidate_id": "812085f8-0942-43aa-b540-d128420a571f",
+      "name": "Alice Chen",
+      "source_file": "alice_chen_resume.pdf",
+      "profile": {
+        "candidate_id": "812085f8-0942-43aa-b540-d128420a571f",
+        "name": "Alice Chen",
+        "email": "alice.chen@email.com",
+        "phone": "+1-415-555-0101",
+        "summary": "Senior full-stack engineer with 7+ years building high-throughput fintech systems. Led migration of payments",
+        "skills": [
+          "aws",
+          "ci/cd",
+          "django",
+          "docker",
+          "elasticsearch",
+          "fastapi",
+          "flask",
+          "github",
+          "go",
+          "graphql",
+          "grpc",
+          "javascript",
+          "kafka",
+          "kubernetes",
+          "microservices",
+          "mongodb",
+          "next.js",
+          "node.js",
+          "postgresql",
+          "python",
+          "rabbitmq",
+          "react",
+          "redis",
+          "sql",
+          "terraform",
+          "typescript"
+        ],
+        "work_experience": [
+          {
+            "company": "alice.chen@email.com | +1-415-555-0101 | San Francisco, CA | github.com/alicechen",
+            "role": "Alice Chen",
+            "duration_months": 62,
+            "domain": "fintech",
+            "skills_used": [
+              "mongodb",
+              "microservices",
+              "rabbitmq",
+              "flask",
+              "sql",
+              "redis",
+              "next.js",
+              "postgresql",
+              "react",
+              "terraform",
+              "fastapi",
+              "aws",
+              "github",
+              "kafka",
+              "python"
+            ],
+            "description": "Senior full-stack engineer with 7+ years building high-throughput fintech systems. Led migration of payments platform from monolith to microservices at Stripe, cutting latency by 40%. Expert in Python/FastAPI, React/TypeScript, and AWS. AWS Solutions Architect certified.",
+            "start_date": "March 2021",
+            "end_date": "Present"
+          }
+        ],
+        "education": [
+          {
+            "degree": "AWS Certified Solutions Architect – Associate | AWS Certified Developer – Associate",
+            "level": "associate",
+            "field": "Unknown",
+            "institution": "Unknown Institution",
+            "year": null
+          },
+          {
+            "degree": "B.S. Computer Science — UC Berkeley | 2016",
+            "level": "bachelor",
+            "field": "Computer Science",
+            "institution": "Unknown Institution",
+            "year": 2016
+          }
+        ],
+        "certifications": [
+          "AWS Solutions Architect certified.",
+          "AWS Certified Solutions Architect – Associate | AWS Certified Developer – Associate"
+        ],
+        "projects": [
+          {
+            "name": "PayFlow — Open-source payment orchestration layer (1.2k GitHub n)",
+            "description": "",
+            "technologies": [
+              "github"
+            ],
+            "domain": "software engineering",
+            "url": null
+          },
+          {
+            "name": "Python/FastAPI, PostgreSQL, Redis, Docker — used by 15 startups in production",
+            "description": "",
+            "technologies": [
+              "redis",
+              "postgresql",
+              "fastapi",
+              "python",
+              "docker"
+            ],
+            "domain": "software engineering",
+            "url": null
+          }
+        ],
+        "total_years_experience": 5.2,
+        "source_file": "alice_chen_resume.pdf",
+        "source_type": "pdf",
+        "communication_indicators": {
+          "has_summary": false,
+          "bullet_points_used": false,
+          "quantified_achievements": 7,
+          "grammar_score": 0.8,
+          "structure_score": 1.0,
+          "vocabulary_richness": 1.0
+        }
+      },
+      "scores": {
+        "skills_match": {
+          "score": 9.1,
+          "weight": 0.3,
+          "weighted_contribution": 27.3,
+          "justification": "Strong 92% match on required skills plus good preferred skill coverage.",
+          "confidence": 0.8
+        },
+        "experience_relevance": {
+          "score": 5.2,
+          "weight": 0.25,
+          "weighted_contribution": 13.0,
+          "justification": "5.2 years with somewhat related domain; solid background with minor gaps.",
+          "confidence": 0.8
+        },
+        "education_certs": {
+          "score": 9.0,
+          "weight": 0.15,
+          "weighted_contribution": 13.5,
+          "justification": "Associate, Bachelor meets or exceeds bachelor; certs add value.",
+          "confidence": 0.8
+        },
+        "project_portfolio": {
+          "score": 2.3,
+          "weight": 0.2,
+          "weighted_contribution": 4.6,
+          "justification": "2 project(s) listed but minimal relevance to the role's domain.",
+          "confidence": 0.8
+        },
+        "communication_quality": {
+          "score": 7.0,
+          "weight": 0.1,
+          "weighted_contribution": 7.0,
+          "justification": "Crisp, well-structured resume with strong summary and quantified achievements.",
+          "confidence": 0.8
+        }
+      },
+      "total_score": 65.4,
+      "recommendation": "hire",
+      "rank": 1,
+      "overrides": [],
+      "flagged": false,
+      "flag_reason": null,
+      "processed_at": "2026-05-11T14:51:06.389538"
+    },
+    {
+      "candidate_id": "a0fb8ea4-03aa-4ec8-862c-d0c0472520e5",
+      "name": "Bob Kumar",
+      "source_file": "bob_kumar_resume.pdf",
+      "profile": {
+        "candidate_id": "a0fb8ea4-03aa-4ec8-862c-d0c0472520e5",
+        "name": "Bob Kumar",
+        "email": "bob.kumar@email.com",
+        "phone": "+1-212-555-0202",
+        "summary": "Software engineer with 6 years building Python/Django backends and React frontends. Primary experience in",
+        "skills": [
+          "aws",
+          "css",
+          "django",
+          "docker",
+          "flask",
+          "git",
+          "github",
+          "html",
+          "javascript",
+          "mysql",
+          "postgresql",
+          "python",
+          "react",
+          "redis",
+          "sql"
+        ],
+        "work_experience": [
+          {
+            "company": "bob.kumar@email.com | +1-212-555-0202 | New York, NY",
+            "role": "Bob Kumar",
+            "duration_months": 76,
+            "domain": "fintech",
+            "skills_used": [
+              "css",
+              "git",
+              "flask",
+              "sql",
+              "redis",
+              "postgresql",
+              "html",
+              "react",
+              "mysql",
+              "aws",
+              "github",
+              "python",
+              "javascript",
+              "docker",
+              "django"
+            ],
+            "description": "Software engineer with 6 years building Python/Django backends and React frontends. Primary experience in healthcare SaaS. Proficient with AWS and Docker. Looking to transition into fintech engineering. EXPERIENCE",
+            "start_date": "January 2020",
+            "end_date": "Present"
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.E. Computer Science — University of Michigan | 2018",
+            "level": "bachelor",
+            "field": "Computer Science",
+            "institution": "B.E. Computer Science — University of Michigan | 2018",
+            "year": 2018
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner"
+        ],
+        "projects": [],
+        "total_years_experience": 6.3,
+        "source_file": "bob_kumar_resume.pdf",
+        "source_type": "pdf",
+        "communication_indicators": {
+          "has_summary": false,
+          "bullet_points_used": false,
+          "quantified_achievements": 7,
+          "grammar_score": 0.8,
+          "structure_score": 1.0,
+          "vocabulary_richness": 1.0
+        }
+      },
+      "scores": {
+        "skills_match": {
+          "score": 4.8,
+          "weight": 0.3,
+          "weighted_contribution": 14.4,
+          "justification": "49% required skills matched; covers some but misses key technical areas.",
+          "confidence": 0.8
+        },
+        "experience_relevance": {
+          "score": 4.7,
+          "weight": 0.25,
+          "weighted_contribution": 11.75,
+          "justification": "6.3 years in different domain; some relevant experience but gaps remain.",
+          "confidence": 0.8
+        },
+        "education_certs": {
+          "score": 9.0,
+          "weight": 0.15,
+          "weighted_contribution": 13.5,
+          "justification": "Bachelor meets or exceeds bachelor; certs add value.",
+          "confidence": 0.8
+        },
+        "project_portfolio": {
+          "score": 1.0,
+          "weight": 0.2,
+          "weighted_contribution": 2.0,
+          "justification": "No projects listed in profile.",
+          "confidence": 0.8
+        },
+        "communication_quality": {
+          "score": 7.0,
+          "weight": 0.1,
+          "weighted_contribution": 7.0,
+          "justification": "Crisp, well-structured resume with strong summary and quantified achievements.",
+          "confidence": 0.8
+        }
+      },
+      "total_score": 48.65,
+      "recommendation": "borderline",
+      "rank": 2,
+      "overrides": [],
+      "flagged": false,
+      "flag_reason": null,
+      "processed_at": "2026-05-11T14:51:06.473346"
+    },
+    {
+      "candidate_id": "6b95e12d-675e-472f-a7c7-4844ba1b35a5",
+      "name": "Emma Jones",
+      "source_file": "emma_jones_resume.pdf",
+      "profile": {
+        "candidate_id": "6b95e12d-675e-472f-a7c7-4844ba1b35a5",
+        "name": "Emma Jones",
+        "email": "emma.jones@email.com",
+        "phone": "+1-206-555-0505",
+        "summary": "Recent CS graduate with 1.5 years full-stack experience. Familiar with Python and React from coursework and",
+        "skills": [
+          "css",
+          "django",
+          "docker",
+          "flask",
+          "git",
+          "github",
+          "html",
+          "javascript",
+          "kubernetes",
+          "postgresql",
+          "python",
+          "react",
+          "sql",
+          "sqlite",
+          "tailwind"
+        ],
+        "work_experience": [
+          {
+            "company": "emma.jones@email.com | +1-206-555-0505 | Seattle, WA",
+            "role": "Emma Jones",
+            "duration_months": 35,
+            "domain": "fintech",
+            "skills_used": [
+              "css",
+              "git",
+              "flask",
+              "sql",
+              "postgresql",
+              "html",
+              "react",
+              "tailwind",
+              "github",
+              "python",
+              "javascript",
+              "kubernetes",
+              "docker",
+              "sqlite",
+              "django"
+            ],
+            "description": "Recent CS graduate with 1.5 years full-stack experience. Familiar with Python and React from coursework and a startup internship. Eager to learn cloud infrastructure and production-scale systems. EXPERIENCE",
+            "start_date": "June 2023",
+            "end_date": "Present"
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S. Computer Science — University of Washington | 2023 | GPA: 3.7",
+            "level": "bachelor",
+            "field": "Computer Science",
+            "institution": "B.S. Computer Science — University of Washington | 202",
+            "year": 2023
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "Study Buddy App — Group matching app (Python/Flask + React, deployed on Heroku)",
+            "description": "",
+            "technologies": [
+              "flask",
+              "react",
+              "python"
+            ],
+            "domain": "software engineering",
+            "url": null
+          },
+          {
+            "name": "Budget Tracker — Personal finance tracker (Django + SQLite, university project)",
+            "description": "",
+            "technologies": [
+              "sqlite",
+              "django"
+            ],
+            "domain": "fintech",
+            "url": null
+          }
+        ],
+        "total_years_experience": 2.9,
+        "source_file": "emma_jones_resume.pdf",
+        "source_type": "pdf",
+        "communication_indicators": {
+          "has_summary": false,
+          "bullet_points_used": false,
+          "quantified_achievements": 5,
+          "grammar_score": 0.8,
+          "structure_score": 1.0,
+          "vocabulary_richness": 1.0
+        }
+      },
+      "scores": {
+        "skills_match": {
+          "score": 4.1,
+          "weight": 0.3,
+          "weighted_contribution": 12.3,
+          "justification": "39% required skills matched; covers some but misses key technical areas.",
+          "confidence": 0.8
+        },
+        "experience_relevance": {
+          "score": 3.4,
+          "weight": 0.25,
+          "weighted_contribution": 8.5,
+          "justification": "2.9 years in different domain; some relevant experience but gaps remain.",
+          "confidence": 0.8
+        },
+        "education_certs": {
+          "score": 7.0,
+          "weight": 0.15,
+          "weighted_contribution": 10.5,
+          "justification": "Bachelor meets or exceeds bachelor; certs add value.",
+          "confidence": 0.8
+        },
+        "project_portfolio": {
+          "score": 2.0,
+          "weight": 0.2,
+          "weighted_contribution": 4.0,
+          "justification": "2 project(s) listed but minimal relevance to the role's domain.",
+          "confidence": 0.8
+        },
+        "communication_quality": {
+          "score": 7.0,
+          "weight": 0.1,
+          "weighted_contribution": 7.0,
+          "justification": "Crisp, well-structured resume with strong summary and quantified achievements.",
+          "confidence": 0.8
+        }
+      },
+      "total_score": 42.3,
+      "recommendation": "no_hire",
+      "rank": 3,
+      "overrides": [],
+      "flagged": false,
+      "flag_reason": null,
+      "processed_at": "2026-05-11T14:51:06.666840"
+    },
+    {
+      "candidate_id": "23996f42-a26b-430a-b7ff-cdaaf9ecd1b1",
+      "name": "Carol Smith",
+      "source_file": "carol_smith_resume.pdf",
+      "profile": {
+        "candidate_id": "23996f42-a26b-430a-b7ff-cdaaf9ecd1b1",
+        "name": "Carol Smith",
+        "email": "carol.smith@email.com",
+        "phone": "+1-617-555-0303",
+        "summary": "Backend Python developer with 5 years building data pipelines and REST APIs for financial risk analytics.",
+        "skills": [
+          "bash",
+          "flask",
+          "git",
+          "kubernetes",
+          "linux",
+          "mysql",
+          "postgresql",
+          "python",
+          "react",
+          "sql"
+        ],
+        "work_experience": [
+          {
+            "company": "carol.smith@email.com | +1-617-555-0303 | Boston, MA",
+            "role": "Carol Smith",
+            "duration_months": 73,
+            "domain": "devops",
+            "skills_used": [
+              "git",
+              "flask",
+              "sql",
+              "postgresql",
+              "bash",
+              "react",
+              "mysql",
+              "python",
+              "kubernetes",
+              "linux"
+            ],
+            "description": "Backend Python developer with 5 years building data pipelines and REST APIs for financial risk analytics. Strong in Python and SQL. Limited frontend experience. No cloud certifications. EXPERIENCE",
+            "start_date": "April 2020",
+            "end_date": "Present"
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S. Mathematics — Boston University | 2018",
+            "level": "bachelor",
+            "field": "Mathematics",
+            "institution": "B.S. Mathematics — Boston University | 2018",
+            "year": 2018
+          }
+        ],
+        "certifications": [],
+        "projects": [],
+        "total_years_experience": 6.1,
+        "source_file": "carol_smith_resume.pdf",
+        "source_type": "pdf",
+        "communication_indicators": {
+          "has_summary": false,
+          "bullet_points_used": false,
+          "quantified_achievements": 6,
+          "grammar_score": 0.8,
+          "structure_score": 0.75,
+          "vocabulary_richness": 1.0
+        }
+      },
+      "scores": {
+        "skills_match": {
+          "score": 1.8,
+          "weight": 0.3,
+          "weighted_contribution": 5.4,
+          "justification": "Only 6% of required skills matched — critical gaps in core requirements.",
+          "confidence": 0.8
+        },
+        "experience_relevance": {
+          "score": 6.5,
+          "weight": 0.25,
+          "weighted_contribution": 16.25,
+          "justification": "6.1 years with adjacent domain; solid background with minor gaps.",
+          "confidence": 0.8
+        },
+        "education_certs": {
+          "score": 7.0,
+          "weight": 0.15,
+          "weighted_contribution": 10.5,
+          "justification": "Bachelor meets or exceeds bachelor; certs add value.",
+          "confidence": 0.8
+        },
+        "project_portfolio": {
+          "score": 1.0,
+          "weight": 0.2,
+          "weighted_contribution": 2.0,
+          "justification": "No projects listed in profile.",
+          "confidence": 0.8
+        },
+        "communication_quality": {
+          "score": 6.4,
+          "weight": 0.1,
+          "weighted_contribution": 6.4,
+          "justification": "Clearly written with reasonable structure; some quantified results present.",
+          "confidence": 0.8
+        }
+      },
+      "total_score": 40.55,
+      "recommendation": "no_hire",
+      "rank": 4,
+      "overrides": [],
+      "flagged": false,
+      "flag_reason": null,
+      "processed_at": "2026-05-11T14:51:06.518573"
+    },
+    {
+      "candidate_id": "d796d20d-6635-44d4-b67a-8d4c365e4f05",
+      "name": "David Lee",
+      "source_file": "david_lee_resume.pdf",
+      "profile": {
+        "candidate_id": "d796d20d-6635-44d4-b67a-8d4c365e4f05",
+        "name": "David Lee",
+        "email": "david.lee@email.com",
+        "phone": "+1-312-555-0404",
+        "summary": "Senior Java developer with 8+ years building enterprise Spring Boot applications for insurance and logistics.",
+        "skills": [
+          "java",
+          "jenkins",
+          "kubernetes",
+          "microservices",
+          "python",
+          "spring",
+          "sql",
+          "typescript"
+        ],
+        "work_experience": [
+          {
+            "company": "david.lee@email.com | +1-312-555-0404 | Chicago, IL",
+            "role": "David Lee",
+            "duration_months": 98,
+            "domain": "ai/ml",
+            "skills_used": [
+              "microservices",
+              "sql",
+              "java",
+              "spring",
+              "python",
+              "kubernetes",
+              "jenkins",
+              "typescript"
+            ],
+            "description": "Senior Java developer with 8+ years building enterprise Spring Boot applications for insurance and logistics. Expert in Java ecosystem. No Python, TypeScript, or Kubernetes experience. Considering pivoting stacks. EXPERIENCE",
+            "start_date": "March 2018",
+            "end_date": "Present"
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech Computer Engineering — Illinois Institute of Technology | 2015",
+            "level": "bachelor",
+            "field": "Unknown",
+            "institution": "mputer Engineering — Illinois Institute of Technology | 2015",
+            "year": 2015
+          }
+        ],
+        "certifications": [
+          "Oracle Certified Professional Java SE 11 Developer"
+        ],
+        "projects": [],
+        "total_years_experience": 8.2,
+        "source_file": "david_lee_resume.pdf",
+        "source_type": "pdf",
+        "communication_indicators": {
+          "has_summary": false,
+          "bullet_points_used": false,
+          "quantified_achievements": 5,
+          "grammar_score": 0.8,
+          "structure_score": 1.0,
+          "vocabulary_richness": 1.0
+        }
+      },
+      "scores": {
+        "skills_match": {
+          "score": 2.3,
+          "weight": 0.3,
+          "weighted_contribution": 6.9,
+          "justification": "Only 10% of required skills matched — critical gaps in core requirements.",
+          "confidence": 0.8
+        },
+        "experience_relevance": {
+          "score": 4.3,
+          "weight": 0.25,
+          "weighted_contribution": 10.75,
+          "justification": "8.2 years in different domain; some relevant experience but gaps remain.",
+          "confidence": 0.8
+        },
+        "education_certs": {
+          "score": 7.0,
+          "weight": 0.15,
+          "weighted_contribution": 10.5,
+          "justification": "Bachelor meets or exceeds bachelor; certs add value.",
+          "confidence": 0.8
+        },
+        "project_portfolio": {
+          "score": 1.0,
+          "weight": 0.2,
+          "weighted_contribution": 2.0,
+          "justification": "No projects listed in profile.",
+          "confidence": 0.8
+        },
+        "communication_quality": {
+          "score": 7.0,
+          "weight": 0.1,
+          "weighted_contribution": 7.0,
+          "justification": "Crisp, well-structured resume with strong summary and quantified achievements.",
+          "confidence": 0.8
+        }
+      },
+      "total_score": 37.15,
+      "recommendation": "no_hire",
+      "rank": 5,
+      "overrides": [],
+      "flagged": false,
+      "flag_reason": null,
+      "processed_at": "2026-05-11T14:51:06.593503"
+    }
+  ],
+  "created_at": "2026-05-11T14:51:06.666840",
+  "updated_at": "2026-05-11T14:51:06.666840",
+  "shortlist_summary": "Analyzed 5 candidates for 'Senior Full-Stack Engineer'. Recommended for hire: 1 | Borderline: 1 | No-hire: 3. Top candidate: Alice Chen (avg score: 46.8/100). Domain focus: devops / infrastructure.",
+  "status": "completed",
+  "error": null
+}
